@@ -1,6 +1,6 @@
 
 export const dictionary = {
-    'nothing': 'nothing',
+    "nothing": "nothing",
     "title": "hello",
     "name" : "armor",
 }
